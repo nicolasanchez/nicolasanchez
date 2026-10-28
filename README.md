@@ -1,4 +1,4 @@
-# Hi, I'm Nico 👋
+# Hi, I'm Nico :)
 
 I'm looking for a junior role in offensive security or IT audit.
 
