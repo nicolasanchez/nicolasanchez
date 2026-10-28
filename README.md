@@ -4,9 +4,9 @@
 
 I'm looking for a junior role in offensive security or IT audit.
 
-I like to **build** software, **protect** it, and understand **how systems are designed** and the security that keeps them safe.
+I come from software development: I studied Multiplatform Application Development (DAM) and did an internship as a full-stack web developer. That background helps me understand how the systems I want to attack are built, and what keeps them secure.
 
-Right now I'm studying a master's in offensive security (pentesting, forensics and incident response).
+I'm now completing a Master's in Cybersecurity Management, Ethical Hacking and Offensive Security (pentesting, forensics and incident response), and preparing for the OSCP and EHE certifications.
 
 ## 🛠️ Stack
 
