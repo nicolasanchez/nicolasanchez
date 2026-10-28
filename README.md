@@ -1,6 +1,6 @@
 # Hi, I'm Nico 👋
 
-I'm a junior developer starting my career in cybersecurity. I'm motivated and I really enjoy learning new things.
+I'm looking for a junior role in offensive security or IT audit.
 
 I like to **build** software, **protect** it, and understand **how systems are designed** and the security that keeps them safe.
 
@@ -31,4 +31,4 @@ Right now I'm studying a master's in offensive security (pentesting, forensics a
 
 ## 📫 Contact
 
-- LinkedIn: _add link_
+- LinkedIn: https://www.linkedin.com/in/nicol%C3%A1s-s%C3%A1nchez-torregrosa-06a819222/
